@@ -34,11 +34,13 @@ The project successfully allows users to control their devices using hand gestur
 ## Demonstration
 
 ### Video 1: Hand Gesture Control
-[![Hand Gesture Control](demo/Hand_gesture_control_IR_Pacman_compressed.jpg)](https://raw.githubusercontent.com/prgrmcode/hand-gesture-control/main/demo/Hand_gesture_control_IR_Pacman_compressed.mp4)
+https://github.com/user-attachments/assets/6cb25306-9866-4a50-a0bd-ab6575e366d7
+
 
 
 ### Video 2: Joystick Control
-[![Joystick Control](demo/Joystick_game_controller.jpg)](https://raw.githubusercontent.com/prgrmcode/hand-gesture-control/main/demo/Joystick_game_controller.mp4)
+https://github.com/user-attachments/assets/9dafda47-74ce-437d-930a-1d645bbfed69
+
 
 
 ## Diagrams
